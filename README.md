@@ -1,30 +1,60 @@
-👋 Hi, I’m Rudraakshya Chowdhary (@rchqai)
+<h1 align="center">🚀 Rudraakshya Chowdhary (@rchqai) 🚀</h1>
+<p align="center">
+  <strong>Machine Learning Engineer | Python Developer | UI/UX Enthusiast</strong>
+</p>
 
-🚀 About Me
+---
 
-I’m a Machine Learning Engineer & Python Developer with 4 years of experience. Passionate about AI/ML, UI/UX, and SaaS platforms, I enjoy building ML models, optimizing workflows, and designing intuitive user experiences.
+## 🛤️ My Roadmap  
 
-🔬 Interests
-	•	🧠 Machine Learning & AI – Model training, optimization, and real-world applications
-	•	🎨 UI/UX Design – Creating seamless and user-friendly interfaces
-	•	🔍 Data Science & Analytics – Extracting insights and making data-driven decisions
-	•	🌐 Full-Stack Development – Bridging the gap between backend logic and frontend design
+### 🎯 **Where I Started**  
+✔️ **Integrated B.Tech-M.Tech** from Gautam Buddha University  
+✔️ Developed strong foundations in **Python, Data Science, and Machine Learning**  
+✔️ Worked as **Junior Machine Learning Engineer @ Oligostie**  
 
-📚 Currently Learning
-	•	🤖 Deep Learning & Computer Vision
-	•	📈 MLOps & Model Deployment
-	•	🏗 Scalable AI Solutions
+### 🚀 **Where I Am Now**  
+🔹 **4+ years of experience** in **Machine Learning, AI, and SaaS**  
+🔹 Building **ML models, working on Computer Vision & AI research**  
+🔹 Designing **intuitive UI/UX interfaces for AI-driven applications**  
+🔹 Working on **ML projects to showcase on GitHub & stand out in interviews**  
 
-🤝 Looking to Collaborate On
-	•	Open-source ML projects
-	•	UI/UX for AI-driven applications
-	•	SaaS-based solutions
+### 🔮 **Where I’m Headed**  
+🔥 Mastering **Deep Learning & Generative AI**  
+🚀 Exploring **MLOps & AI Deployment at scale**  
+🧠 Researching **State-of-the-Art (SOTA) AI models**  
+🎯 Aiming for a **high-impact ML role in top tech companies**  
 
-📫 Reach Me At
-	•	💼 LinkedIn: Your LinkedIn Profile
-	•	📧 Email: [Your Email]
-	•	🏗 GitHub: rchqai
+---
 
-⚡ Fun Fact
+## 🛠 Tech Stack  
+💻 **Languages:** Python, SQL, JavaScript  
+📊 **ML/DL Frameworks:** TensorFlow, PyTorch, Scikit-learn, CatBoost  
+📂 **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn  
+🖌 **UI/UX Tools:** Figma, Adobe XD  
+🚀 **Deployment & Cloud:** Docker, AWS, FastAPI  
 
-I love exploring cutting-edge AI research and analyzing product designs from top tech companies!
+---
+
+## 🔍 Currently Learning  
+🔹 **Deep Learning & MLOps** (Model Deployment, Scaling AI)  
+🔹 **Computer Vision & NLP** (YOLO, Transformers, LLMs)  
+🔹 **Building End-to-End AI Products**  
+
+---
+
+## 🤝 Let’s Connect!  
+📩 **Email:** [Your Email]  
+💼 **LinkedIn:** [Your LinkedIn Profile](#)  
+🔗 **Portfolio:** [Your Portfolio (if applicable)](#)  
+💻 **GitHub:** [rchqai](https://github.com/rchqai)  
+
+---
+
+## 🔥 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rchqai&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+✨ **"Turning data into insights, and insights into action!"** ✨

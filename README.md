@@ -43,9 +43,8 @@
 ---
 
 ## 🤝 Let’s Connect!  
-📩 **Email:** [Your Email]  
-💼 **LinkedIn:** [Your LinkedIn Profile](#)  
-🔗 **Portfolio:** [Your Portfolio (if applicable)](#)  
+📩 **Email:** rchq.in@icloud.com 
+💼 **LinkedIn:** https://www.linkedin.com/in/rudraakshya-chowdhary/
 💻 **GitHub:** [rchqai](https://github.com/rchqai)  
 
 ---

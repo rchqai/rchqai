@@ -44,7 +44,6 @@
 
 ## 🤝 Let’s Connect!  
 📩 **Email:** rchq.in@icloud.com 
-💼 **LinkedIn:** https://www.linkedin.com/in/rudraakshya-chowdhary/
 💻 **GitHub:** [rchqai](https://github.com/rchqai)  
 
 ---
